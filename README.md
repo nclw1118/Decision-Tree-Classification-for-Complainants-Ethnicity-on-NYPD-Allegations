@@ -1,4 +1,4 @@
-# Decision Tree Classification for Complainants Ethnicity on NYPD Allegations
+# Decision Tree Classification for Complainants Ethnicity on NYPD Allegations 
 <ul>
   <li><b>Data cleaning</b> of the dataset from New York City’s Civilian Complaint Review Board (<a href="https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers">link</a>)</li>
   <li><b>EDA</b> and <b>Data visualization</b> with pandas and matplotlib </li>
